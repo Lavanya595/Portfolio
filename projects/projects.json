@@ -1,0 +1,29 @@
+[{
+        "name": "Library Management System",
+        "desc": "Team project where I worked as a frontend developer. Built a responsive UI for book requests, issue tracking, and navigation using HTML, CSS, JavaScript, and Figma.",
+        "image": "lms",
+        "category": "basicweb",
+        "links": {
+            "code": "https://github.com/Lavanya595/LMS_software"
+        }
+    },
+    {
+        "name": "Vehicle Number Plate Detector",
+        "desc": "Python-OpenCV project to detect and extract vehicle number plates. Integrated Excel logging for automatic registration detail storage, useful in surveillance and security.",
+        "image": "numberplate",
+        "category": "lamp",
+        "links": {
+            "code": "https://github.com/Lavanya595/security_system"
+        }
+    },
+    {
+        "name": "Women Safety Detector",
+        "desc": "IoT-based project using Raspberry Pi, touch sensor, LED, buzzer, and Twilio API. Sends SMS alerts and activates buzzer + LED when triggered for real-time safety applications.",
+        "image": "projectiot",
+        "category": "lamp",
+        "links": {
+            "code": "https://github.com/Lavanya595/Women-Safety-Detector-IoT"
+        }
+    }
+
+]
